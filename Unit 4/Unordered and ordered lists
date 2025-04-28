@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>This text will appear in the browser tab.</title>
+    </head>
+    <body>
+        <h1>HTML Unordered List example</h1>
+        <h3>Common Fruits</h3>
+        <ul type="square">
+            <li>Pears</li>
+            <li>Apples</li>
+            <li>Bananas</li>
+            <li>Cherries</li>
+            <li>Lemons</li>
+        </ul>
+    </body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>This text will appear in the browser tab.</title>
+    </head>
+    <body>
+        <h1>HTML Ordered List example</h1>
+        <h3>Roman Emperors</h3>
+        <ol type="A">
+            <li>Augustus</li>
+            <li>Tiberius</li>
+            <li>Caligula</li>
+            <li>Claudius</li>
+            <li>Nero</li>
+        </ol>
+    </body>
+</html>
