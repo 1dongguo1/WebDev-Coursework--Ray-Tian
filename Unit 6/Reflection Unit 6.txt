@@ -1,0 +1,1 @@
+This Unit focus on feedback and iteration. I learned about adding links. When I hover my mouse on a link, there will also a brief introduction of the link. I learned about styling Images. I can change the border size, style, color and radius. 'Span' can cut my paragraph, to decorate each word. Which can make my html vivid.
