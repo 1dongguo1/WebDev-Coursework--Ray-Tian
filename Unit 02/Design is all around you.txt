@@ -1,0 +1,13 @@
+Empathize
+This stage involves understanding the needs, motivations, and behavior of the people for whom you're designing. It requires gathering insights about your users through observation, interaction, and immersing yourself in their experiences.
+
+Define
+In this phase, you'll analyze your observations and synthesize them in order to define the core problems you have identified. This stage is crucial in framing the problem in a user-centered manner.
+
+Ideate
+This is the brainstorming stage. Here, you as the designer are encouraged to generate a large quantity of ideas that might solve the defined problem. It's a stage for creativity and innovation. There are no 'good' ideas or 'bad' ideas in this stage. All ideas are considered. The focus is on the quantity of ideas over the quality of any idea.
+
+Prototype
+This step involves creating scaled-down versions of the product or specific features found within the product. Prototyping is an experimental phase, where the aim is to identify the best possible solution for each of the problems identified during the previous three stages. Prototypes can be shared and tested within your design team or on a group of people outside the design team.
+
+Test
