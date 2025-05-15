@@ -21,5 +21,5 @@ Welcome to my Web Development Coursework, documenting my journey through the "In
 
 **The pdf include all the screen shot of short answer. And the reflection code of code challenge is in the file of each Unit.**
 
-Tip: I find some emojis to make my README file more vivid.
+Tip: I find some emoji to make my README file more vivid.
 
